@@ -1,0 +1,50 @@
+[/]
+prompt-on-close=true
+quake-specific-monitor=0
+terminal-title-style='none'
+warn-vte-config-issue=false
+window-style='disable-csd-hide-toolbar'
+
+[profiles]
+default='47f8e503-e6e4-4231-b3b3-cd201c204196'
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d', '4bde7182-b009-44e9-98a0-2ea2ec7dbcce', '7398ee91-b101-46f1-9320-a26906b8a63b', '33529922-356a-47ba-b4bc-4fd5153472b6', '47f8e503-e6e4-4231-b3b3-cd201c204196']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-transparency-percent=13
+font='JetBrains Mono 11'
+foreground-color='#E3E3BFBFB8B8'
+palette=['#000000', '#AA0000', '#00AA00', '#AA5400', '#0000AA', '#AA00AA', '#0000AAAAAAAA', '#AAAAAA', '#545454', '#FF5454', '#54FF54', '#FFFF54', '#5454FF', '#FF54FF', '#54FFFF', '#FFFFFF']
+use-system-font=false
+use-theme-colors=false
+visible-name='Predeterminado'
+
+[profiles/33529922-356a-47ba-b4bc-4fd5153472b6]
+background-color='#C0C0BFBFBCBC'
+foreground-color='#000000000000'
+palette=['#2E2E34343636', '#CCCC00000000', '#4E4E9A9A0606', '#C4C4A0A00000', '#34346565A4A4', '#757550507B7B', '#060698209A9A', '#2E2E34343636', '#555557575353', '#EFEF29292929', '#8A8AE2E23434', '#FCFCE9E94F4F', '#72729F9FCFCF', '#ADAD7F7FA8A8', '#3434E2E2E2E2', '#2E2E34343636']
+use-theme-colors=false
+visible-name='Unnamed'
+
+[profiles/47f8e503-e6e4-4231-b3b3-cd201c204196]
+background-color='#C0C0BFBFBCBC'
+bold-is-bright=true
+font='Unifont Medium 10'
+foreground-color='#000000000000'
+palette=['#2E2E34343636', '#CCCC00000000', '#4E4E9A9A0606', '#C4C4A0A00000', '#34346565A4A4', '#757550507B7B', '#060698209A9A', '#D3D3D7D7CFCF', '#6262A0A0EAEA', '#EFEF29292929', '#8A8AE2E23434', '#FCFCE9E94F4F', '#72729F9FCFCF', '#ADAD7F7FA8A8', '#3434E2E2E2E2', '#EEEEEEEEECEC']
+use-system-font=false
+use-theme-colors=false
+visible-name='Unnamed'
+
+[profiles/4bde7182-b009-44e9-98a0-2ea2ec7dbcce]
+background-transparency-percent=18
+use-theme-colors=false
+visible-name='Unnamed'
+
+[profiles/7398ee91-b101-46f1-9320-a26906b8a63b]
+background-color='#C0C0BFBFBCBC'
+font='Unifont Medium 12'
+foreground-color='#000000000000'
+palette=['#2E2E34343636', '#CCCC00000000', '#4E4E9A9A0606', '#C4C4A0A00000', '#34346565A4A4', '#757550507B7B', '#060698209A9A', '#54545454FFFF', '#54545454FFFF', '#EFEF29292929', '#8A8AE2E23434', '#FCFCE9E94F4F', '#72729F9FCFCF', '#ADAD7F7FA8A8', '#3434E2E2E2E2', '#54545454FFFF']
+use-system-font=false
+use-theme-colors=false
+visible-name='Unnamed'
