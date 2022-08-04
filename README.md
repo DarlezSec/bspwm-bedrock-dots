@@ -1,6 +1,14 @@
-<h1 align='center'>My Setup Rice BSPWM </h1>
+# [BSPWM] Rice Cool 90's sense
 
-**ⵃ Thanks for visiting!**
+### Details:
 
-<img src='DesktopN1342.png' alt='Bspwm' align='right' width='550px'/>
-<img src='cap6.png' alt='BSPWM' align='right' width='550px'/>
+- [x] OS: Bedrock Linux 0.7.27 Poki x86_64
+- [x] WM: [BSPWM]()
+- [x] Compositor: [Ibhagwan's Picom Fork](https://github.com/ibhagwan/picom)
+- [x] Terminal: [Tilix](https://gnunn1.github.io/tilix-web/)
+- [x] Icons: []()
+- [x] Theme: [PLATIUM](https://www.gnome-look.org/p/1014636/)
+- [x] Wallpaper: [Unsplash](https://unsplash.com/photos/Ld-YP_iBGyI)
+
+![](DesktopN1342.png)
+![](cap6.png)
